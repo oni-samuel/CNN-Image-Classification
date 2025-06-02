@@ -1,5 +1,6 @@
+tensorflow==2.12.0
 streamlit
-tensorflow
+rich
 opencv-python
 numpy
 Pillow
