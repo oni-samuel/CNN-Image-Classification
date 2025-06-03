@@ -1,6 +1,4 @@
-tensorflow==2.16.1
-streamlit
-rich
+tensorflow
+gradio
 opencv-python
 numpy
-Pillow
